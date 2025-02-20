@@ -1,1 +1,1 @@
-# python-ai-phishing-detection
+# Python - AI Phishing Detection
